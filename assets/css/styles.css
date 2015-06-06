@@ -1,0 +1,13 @@
+.dropzone{
+	border: 2px dashed blue;
+	border-radius: 5px;
+}
+.jumbotron{
+	text-align: center;
+}
+.container{
+	text-align: center;
+}
+.footer{
+	margin-top:45px;
+}
